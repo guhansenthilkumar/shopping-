@@ -1,5 +1,5 @@
 package task4;
-
+//Account Balance
 public class AccountBalanceBelow1000 extends Exception {
 	float balance; 
 	public AccountBalanceBelow1000(float balance) {
